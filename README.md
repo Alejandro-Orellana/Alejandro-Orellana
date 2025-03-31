@@ -1,6 +1,6 @@
 👋 Hi, I'm @Alejandro-Orellana.
 
-I'm building AI retrieval systems, the latest of which automates financial analysis—because it brings together everything I love: numbers, uncertainty, the written word, and discovery. I've always been drawn to things that make sense of complexity.
+I'm building AI retrieval systems (among many things), the latest of which automates financial analysis—because it brings together everything I love: numbers, uncertainty, the written word, and discovery. I've always been drawn to things that make sense of complexity.
 
 Years ago (c 2014-2018), I helped scale a "Moneyball"-style system to rank the performance of public company executives. This experience introduced me to semantic search algorithms, which seem basic by today's standards but were deeply formative.
 
